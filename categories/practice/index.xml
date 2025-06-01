@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Practice on </title>
+    <link>//localhost:1313/categories/practice/</link>
+    <description>Recent content in Practice on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="//localhost:1313/categories/practice/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Practice</title>
+      <link>//localhost:1313/practice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/practice/</guid>
+        <media:content url="//localhost:1313/practice/Practice06_hu_1aede25d8f944820.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/practice/Practice06_hu_1aede25d8f944820.png&quot; /&gt;
+          &lt;p&gt;翻看她堆积如山的练习稿纸，每一页都是天赋与汗水交织的印记。素描本里挤满了密集的线条——人物速写、静物结构、动态捕捉，有些角落甚至被反复涂抹到近乎穿透纸背。油画习作稿上堆砌着色彩的实验，从灰调练习到大胆的色块碰撞，颜料层层覆盖的痕迹暴露了她近乎偏执的钻研。最动人的是那些未完成的草稿：中断的轮廓线旁写着潦草的心得，调色盘刮刀随意撇开的肌理突然定格成灵感，甚至咖啡渍和指纹都成了画面的延伸。这些揉皱的、泛黄的、带着松节油气味的纸页，像一场无声的暴风雨，记录着她如何用燃烧般的专注力，把时间淬炼成惊人的成长。&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
